@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋 I'm Frame and Funnel
 
-<!--
-**frameandfunnel/frameandfunnel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am dedicated to building stronger healthcare brands and driving smarter growth for premier healthcare providers.
 
-Here are some ideas to get you started:
+## About Agency
+We are a premier **Healthcare Marketing Agency** specializing in data-driven campaigns, strategic brand positioning, and comprehensive digital growth systems. Based in Texas, United States, we help medical practices improve patient outreach and maximize brand awareness through compliant, patient-centered communication.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Core Expertise:
+* Marketing & Advertising
+* Content Strategy
+* Medical SEO
+* Digital Outreach Systems
+
+---
+
+## 🔗 Connect With Us
+* **Official Website:** Visit [Frame and Funnel](https://frameandfunnel.com/) to explore our healthcare growth systems.
+* **Location:** Texas, United States 🇺🇸
